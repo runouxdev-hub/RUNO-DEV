@@ -1,0 +1,5 @@
+{
+  "name": "LearnFlow AI Blog Post Generator",
+  "description": "An AI-powered tool to generate short, educational blog posts on various topics. Each post includes an introduction, a main lesson, a video suggestion, and a quiz, all formatted for easy learning.",
+  "requestFramePermissions": []
+}
